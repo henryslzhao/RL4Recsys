@@ -1,10 +1,14 @@
 # RL4Recsys
 paper list in the area of reinforcenment learning for recommendation systems
 
+https://github.com/cszhangzhen/DRL4Recsys
+
 # 2020 
 WSDM, Model-Based Reinforcement Learning for Whole-Chain Recommendations, https://arxiv.org/abs/1902.03987
 
 WSDM, End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding, https://dl.acm.org/doi/abs/10.1145/3336191.3371858
+
+WSDM, Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation, https://dl.acm.org/doi/abs/10.1145/3336191.3371801
 
 AAAI, Simulating User Feedback for Reinforcement Learning Based Recommendations, https://arxiv.org/pdf/1906.11462.pdf
 
