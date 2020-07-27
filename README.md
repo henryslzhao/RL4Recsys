@@ -3,7 +3,12 @@ paper list in the area of reinforcenment learning for recommendation systems
 
 https://github.com/cszhangzhen/DRL4Recsys
 
+
+
+
 # 2020 
+SIGIR, Self-Supervised Reinforcement Learning for Recommender Systems, https://arxiv.org/abs/2006.05779
+
 WSDM, Model-Based Reinforcement Learning for Whole-Chain Recommendations, https://arxiv.org/abs/1902.03987
 
 WSDM, End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding, https://dl.acm.org/doi/abs/10.1145/3336191.3371858
@@ -16,6 +21,11 @@ KBS, State representation modeling for deep reinforcement learning based recomme
 
 MOReL : Model-Based Offline Reinforcement Learning, https://arxiv.org/abs/2005.05951
 
+KDD, MBCAL: Sample Efficient and Variance Reduced Reinforcement Learning for Recommender Systems, https://arxiv.org/pdf/1911.02248.pdf 
+
+Generator and Critic: A Deep Reinforcement Learning Approach for Slate Re-ranking in E-commerce, https://arxiv.org/pdf/2005.12206.pdf
+
+
 # 2019
 NIPS, Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation, paper and code: http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation
 
@@ -26,6 +36,8 @@ ICML, Off-Policy Deep Reinforcement Learning without Exploration, https://arxiv.
 ICML, Challenges of Real-World Reinforcement Learning, https://arxiv.org/abs/1904.12901
 
 ICML, Horizon: Facebook's Open Source Applied Reinforcement Learning Platform, https://arxiv.org/pdf/1811.00260.pdf
+
+ICML, Generative Adversarial User Model for Reinforcement Learning Based Recommendation System, paper and code, http://proceedings.mlr.press/v97/chen19f.html
 
 KDD, Deep Reinforcement Learning for List-wise Recommendations,https://arxiv.org/pdf/1801.00209.pdf   code: https://github.com/luozachary/drl-rec
 
@@ -67,6 +79,10 @@ Key Papers from OpenAI, https://spinningup.openai.com/en/latest/spinningup/keypa
 Strategic Exploration in Reinforcement Learning - New Algorithms and Learning Guarantees, https://www.ml.cmu.edu/research/phd-dissertation-pdfs/cmu-ml-19-116-dann.pdf
 
 # Other Paper
+Learning to Recommend via Meta Parameter Partition, https://arxiv.org/pdf/1912.04108.pdf
+
+Adversarial Machine Learning in Recommender Systems: State of the art and Challenges, https://arxiv.org/abs/2005.10322
+
 WWW20, Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations, https://dl.acm.org/doi/abs/10.1145/3366424.3386195
 
 ICLR2020, On the Variance of the Adaptive Learning Rate and Beyond, https://github.com/LiyuanLucasLiu/RAdam, code: https://github.com/LiyuanLucasLiu/RAdam
