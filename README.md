@@ -55,6 +55,8 @@ Recsys, Revisiting offline evaluation for implicit-feedback recommender systems,
 
 IJCAI, Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology, https://arxiv.org/pdf/1905.12767.pdf
 
+AAAI, Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning, https://arxiv.org/pdf/1805.10000.pdf
+
 WWW, Towards Neural Mixture Recommender for Long Range Dependent User Sequences, https://dl.acm.org/doi/abs/10.1145/3308558.3313650
 
 Deep Reinforcement Learning for Online Advertising in Recommender Systems, https://arxiv.org/abs/1909.03602
